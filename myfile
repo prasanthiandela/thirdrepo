@@ -1,5 +1,4 @@
 Hi, I am just using this fil eto practice jenkins
 I am adding a python hello world program to this file
 
-
-print("Hello World!")
+I removed hello world program in python from this file just to check the webhook functionality
